@@ -1,4 +1,4 @@
 # CIS-245
 # Basic PHP projects / assignments done throughout the semester
 ----------------------------------------------------------------
-Some 
+Implementing PHP to HTML and handling database
